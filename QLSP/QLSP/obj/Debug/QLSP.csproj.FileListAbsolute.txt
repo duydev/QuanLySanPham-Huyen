@@ -1,0 +1,25 @@
+E:\Du An\QLSP\QLSP\QLSP\bin\Debug\EntityFramework.dll
+E:\Du An\QLSP\QLSP\QLSP\bin\Debug\EntityFramework.SqlServer.dll
+E:\Du An\QLSP\QLSP\QLSP\bin\Debug\System.Data.SQLite.dll
+E:\Du An\QLSP\QLSP\QLSP\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Du An\QLSP\QLSP\QLSP\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Du An\QLSP\QLSP\QLSP\bin\Debug\EntityFramework.xml
+E:\Du An\QLSP\QLSP\QLSP\bin\Debug\EntityFramework.SqlServer.xml
+E:\Du An\QLSP\QLSP\QLSP\bin\Debug\System.Data.SQLite.xml
+E:\Du An\QLSP\QLSP\QLSP\obj\Debug\QLSP.csprojResolveAssemblyReference.cache
+E:\Du An\QLSP\QLSP\QLSP\obj\Debug\QLSP.Properties.Resources.resources
+E:\Du An\QLSP\QLSP\QLSP\obj\Debug\QLSP.QuanLySanPham.resources
+E:\Du An\QLSP\QLSP\QLSP\obj\Debug\QLSP.csproj.GenerateResource.Cache
+E:\Du An\QLSP\QLSP\QLSP\obj\Debug\QLSP.XemGiaSanPham.resources
+E:\Du An\QLSP\QLSP\QLSP\bin\Debug\Quan Ly San Pham.exe.config
+E:\Du An\QLSP\QLSP\QLSP\bin\Debug\Quan Ly San Pham.exe.manifest
+E:\Du An\QLSP\QLSP\QLSP\bin\Debug\Quan Ly San Pham.application
+E:\Du An\QLSP\QLSP\QLSP\bin\Debug\Quan Ly San Pham.exe
+E:\Du An\QLSP\QLSP\QLSP\bin\Debug\Quan Ly San Pham.pdb
+E:\Du An\QLSP\QLSP\QLSP\obj\Debug\Quan Ly San Pham.TrustInfo.xml
+E:\Du An\QLSP\QLSP\QLSP\obj\Debug\Quan Ly San Pham.exe.manifest
+E:\Du An\QLSP\QLSP\QLSP\obj\Debug\Quan Ly San Pham.application
+E:\Du An\QLSP\QLSP\QLSP\obj\Debug\Quan Ly San Pham.exe
+E:\Du An\QLSP\QLSP\QLSP\obj\Debug\Quan Ly San Pham.pdb
+E:\Du An\QLSP\QLSP\QLSP\obj\Debug\QLSP.VeTacGia.resources
+E:\Du An\QLSP\QLSP\QLSP\obj\Debug\QLSP.DangNhap.resources
